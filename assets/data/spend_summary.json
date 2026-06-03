@@ -1,0 +1,511 @@
+{
+  "monthlySpend": {
+    "amount": 39216,
+    "percentageChange": 12.4,
+    "isIncrease": true,
+    "month": "June",
+    "budget": 65000
+  },
+  "categories": [
+    {
+      "name": "All",
+      "amount": 39216,
+      "icon": "wallet",
+      "color": "FF111827"
+    },
+    {
+      "name": "Food",
+      "amount": 7464,
+      "icon": "restaurant",
+      "color": "FFEF4444"
+    },
+    {
+      "name": "Travel",
+      "amount": 6895,
+      "icon": "flight",
+      "color": "FF3B82F6"
+    },
+    {
+      "name": "Shopping",
+      "amount": 8200,
+      "icon": "shopping_bag",
+      "color": "FFA855F7"
+    },
+    {
+      "name": "Bills",
+      "amount": 7560,
+      "icon": "receipt",
+      "color": "FFF97316"
+    },
+    {
+      "name": "Health",
+      "amount": 4780,
+      "icon": "health",
+      "color": "FF14B8A6"
+    },
+    {
+      "name": "Entertainment",
+      "amount": 4317,
+      "icon": "movie",
+      "color": "FFEC4899"
+    }
+  ],
+  "transactions": [
+    {
+      "title": "Starbucks Coffee",
+      "category": "Food",
+      "amount": 420,
+      "date": "Today, 09:30 AM",
+      "type": "debit",
+      "icon": "restaurant"
+    },
+    {
+      "title": "Zomato Dinner",
+      "category": "Food",
+      "amount": 735,
+      "date": "31 May, 09:05 PM",
+      "type": "debit",
+      "icon": "restaurant"
+    },
+    {
+      "title": "Swiggy Lunch",
+      "category": "Food",
+      "amount": 280,
+      "date": "30 May, 01:20 PM",
+      "type": "debit",
+      "icon": "restaurant"
+    },
+    {
+      "title": "Grocery Store",
+      "category": "Food",
+      "amount": 1420,
+      "date": "28 May, 06:45 PM",
+      "type": "debit",
+      "icon": "grocery"
+    },
+    {
+      "title": "Cafe Mocha",
+      "category": "Food",
+      "amount": 260,
+      "date": "27 May, 05:10 PM",
+      "type": "debit",
+      "icon": "restaurant"
+    },
+    {
+      "title": "Pizza Hut",
+      "category": "Food",
+      "amount": 899,
+      "date": "25 May, 08:35 PM",
+      "type": "debit",
+      "icon": "restaurant"
+    },
+    {
+      "title": "Fresh Fruits",
+      "category": "Food",
+      "amount": 540,
+      "date": "23 May, 10:15 AM",
+      "type": "debit",
+      "icon": "grocery"
+    },
+    {
+      "title": "Office Snacks",
+      "category": "Food",
+      "amount": 310,
+      "date": "21 May, 04:10 PM",
+      "type": "debit",
+      "icon": "restaurant"
+    },
+    {
+      "title": "D-Mart Grocery",
+      "category": "Food",
+      "amount": 1890,
+      "date": "19 May, 07:45 PM",
+      "type": "debit",
+      "icon": "grocery"
+    },
+    {
+      "title": "Burger Meal",
+      "category": "Food",
+      "amount": 410,
+      "date": "17 May, 09:05 PM",
+      "type": "debit",
+      "icon": "restaurant"
+    },
+    {
+      "title": "Uber Ride",
+      "category": "Travel",
+      "amount": 310,
+      "date": "Today, 08:15 AM",
+      "type": "debit",
+      "icon": "taxi"
+    },
+    {
+      "title": "Metro Card Recharge",
+      "category": "Travel",
+      "amount": 500,
+      "date": "01 Jun, 08:00 AM",
+      "type": "debit",
+      "icon": "train"
+    },
+    {
+      "title": "Airport Cab",
+      "category": "Travel",
+      "amount": 980,
+      "date": "29 May, 06:10 AM",
+      "type": "debit",
+      "icon": "taxi"
+    },
+    {
+      "title": "Fuel Station",
+      "category": "Travel",
+      "amount": 2100,
+      "date": "26 May, 08:00 PM",
+      "type": "debit",
+      "icon": "fuel"
+    },
+    {
+      "title": "Bus Ticket",
+      "category": "Travel",
+      "amount": 180,
+      "date": "24 May, 07:30 AM",
+      "type": "debit",
+      "icon": "bus"
+    },
+    {
+      "title": "Ola Ride",
+      "category": "Travel",
+      "amount": 440,
+      "date": "22 May, 09:20 PM",
+      "type": "debit",
+      "icon": "taxi"
+    },
+    {
+      "title": "Train Booking",
+      "category": "Travel",
+      "amount": 1250,
+      "date": "18 May, 11:50 AM",
+      "type": "debit",
+      "icon": "train"
+    },
+    {
+      "title": "Parking Fee",
+      "category": "Travel",
+      "amount": 120,
+      "date": "15 May, 02:40 PM",
+      "type": "debit",
+      "icon": "car"
+    },
+    {
+      "title": "Bike Service Fuel",
+      "category": "Travel",
+      "amount": 760,
+      "date": "12 May, 06:30 PM",
+      "type": "debit",
+      "icon": "fuel"
+    },
+    {
+      "title": "Amazon Order",
+      "category": "Shopping",
+      "amount": 1299,
+      "date": "Yesterday, 07:42 PM",
+      "type": "debit",
+      "icon": "shopping_bag"
+    },
+    {
+      "title": "Myntra T-Shirt",
+      "category": "Shopping",
+      "amount": 899,
+      "date": "30 May, 11:05 AM",
+      "type": "debit",
+      "icon": "shopping_bag"
+    },
+    {
+      "title": "Flipkart Electronics",
+      "category": "Shopping",
+      "amount": 2399,
+      "date": "27 May, 02:00 PM",
+      "type": "debit",
+      "icon": "shopping_bag"
+    },
+    {
+      "title": "New Shoes",
+      "category": "Shopping",
+      "amount": 1799,
+      "date": "24 May, 05:35 PM",
+      "type": "debit",
+      "icon": "shopping_bag"
+    },
+    {
+      "title": "Mobile Cover",
+      "category": "Shopping",
+      "amount": 299,
+      "date": "20 May, 03:30 PM",
+      "type": "debit",
+      "icon": "shopping_bag"
+    },
+    {
+      "title": "Stationery",
+      "category": "Shopping",
+      "amount": 260,
+      "date": "16 May, 12:25 PM",
+      "type": "debit",
+      "icon": "shopping_bag"
+    },
+    {
+      "title": "Home Decor",
+      "category": "Shopping",
+      "amount": 720,
+      "date": "13 May, 04:50 PM",
+      "type": "debit",
+      "icon": "shopping_bag"
+    },
+    {
+      "title": "Gift Purchase",
+      "category": "Shopping",
+      "amount": 175,
+      "date": "10 May, 07:05 PM",
+      "type": "debit",
+      "icon": "shopping_bag"
+    },
+    {
+      "title": "Electricity Bill",
+      "category": "Bills",
+      "amount": 2450,
+      "date": "Yesterday, 05:10 PM",
+      "type": "debit",
+      "icon": "receipt"
+    },
+    {
+      "title": "Mobile Recharge",
+      "category": "Bills",
+      "amount": 399,
+      "date": "31 May, 08:00 AM",
+      "type": "debit",
+      "icon": "phone"
+    },
+    {
+      "title": "Internet Bill",
+      "category": "Bills",
+      "amount": 999,
+      "date": "28 May, 10:00 AM",
+      "type": "debit",
+      "icon": "wifi"
+    },
+    {
+      "title": "Water Bill",
+      "category": "Bills",
+      "amount": 620,
+      "date": "25 May, 09:00 AM",
+      "type": "debit",
+      "icon": "receipt"
+    },
+    {
+      "title": "Credit Card Payment",
+      "category": "Bills",
+      "amount": 1800,
+      "date": "22 May, 06:00 PM",
+      "type": "debit",
+      "icon": "card"
+    },
+    {
+      "title": "DTH Recharge",
+      "category": "Bills",
+      "amount": 480,
+      "date": "18 May, 10:00 AM",
+      "type": "debit",
+      "icon": "receipt"
+    },
+    {
+      "title": "Society Maintenance",
+      "category": "Bills",
+      "amount": 52,
+      "date": "10 May, 09:15 AM",
+      "type": "debit",
+      "icon": "receipt"
+    },
+    {
+      "title": "Apollo Pharmacy",
+      "category": "Health",
+      "amount": 860,
+      "date": "01 Jun, 04:20 PM",
+      "type": "debit",
+      "icon": "health"
+    },
+    {
+      "title": "Doctor Consultation",
+      "category": "Health",
+      "amount": 700,
+      "date": "29 May, 12:10 PM",
+      "type": "debit",
+      "icon": "doctor"
+    },
+    {
+      "title": "Health Checkup",
+      "category": "Health",
+      "amount": 1250,
+      "date": "26 May, 09:30 AM",
+      "type": "debit",
+      "icon": "health"
+    },
+    {
+      "title": "Protein Snacks",
+      "category": "Health",
+      "amount": 420,
+      "date": "22 May, 08:30 PM",
+      "type": "debit",
+      "icon": "health"
+    },
+    {
+      "title": "Medical Store",
+      "category": "Health",
+      "amount": 310,
+      "date": "19 May, 06:15 PM",
+      "type": "debit",
+      "icon": "health"
+    },
+    {
+      "title": "Gym Day Pass",
+      "category": "Health",
+      "amount": 350,
+      "date": "14 May, 07:00 AM",
+      "type": "debit",
+      "icon": "fitness"
+    },
+    {
+      "title": "Eye Drops",
+      "category": "Health",
+      "amount": 310,
+      "date": "11 May, 05:20 PM",
+      "type": "debit",
+      "icon": "health"
+    },
+    {
+      "title": "Netflix Subscription",
+      "category": "Entertainment",
+      "amount": 649,
+      "date": "02 Jun, 10:00 AM",
+      "type": "debit",
+      "icon": "movie"
+    },
+    {
+      "title": "Movie Tickets",
+      "category": "Entertainment",
+      "amount": 620,
+      "date": "29 May, 09:30 PM",
+      "type": "debit",
+      "icon": "movie"
+    },
+    {
+      "title": "Spotify Premium",
+      "category": "Entertainment",
+      "amount": 119,
+      "date": "27 May, 10:00 AM",
+      "type": "debit",
+      "icon": "music"
+    },
+    {
+      "title": "Gaming Cafe",
+      "category": "Entertainment",
+      "amount": 450,
+      "date": "23 May, 07:15 PM",
+      "type": "debit",
+      "icon": "game"
+    },
+    {
+      "title": "YouTube Premium",
+      "category": "Entertainment",
+      "amount": 149,
+      "date": "20 May, 10:00 AM",
+      "type": "debit",
+      "icon": "movie"
+    },
+    {
+      "title": "BookMyShow Snacks",
+      "category": "Entertainment",
+      "amount": 380,
+      "date": "18 May, 08:20 PM",
+      "type": "debit",
+      "icon": "movie"
+    },
+    {
+      "title": "Weekend Bowling",
+      "category": "Entertainment",
+      "amount": 840,
+      "date": "15 May, 06:40 PM",
+      "type": "debit",
+      "icon": "game"
+    },
+    {
+      "title": "Audible Subscription",
+      "category": "Entertainment",
+      "amount": 210,
+      "date": "12 May, 09:00 AM",
+      "type": "debit",
+      "icon": "music"
+    },
+    {
+      "title": "Tea Break",
+      "category": "Food",
+      "amount": 80,
+      "date": "09 May, 04:15 PM",
+      "type": "debit",
+      "icon": "restaurant"
+    },
+    {
+      "title": "Auto Rickshaw",
+      "category": "Travel",
+      "amount": 160,
+      "date": "09 May, 09:10 AM",
+      "type": "debit",
+      "icon": "taxi"
+    },
+    {
+      "title": "USB Cable",
+      "category": "Shopping",
+      "amount": 350,
+      "date": "08 May, 02:25 PM",
+      "type": "debit",
+      "icon": "shopping_bag"
+    },
+    {
+      "title": "Gas Bill",
+      "category": "Bills",
+      "amount": 760,
+      "date": "08 May, 10:00 AM",
+      "type": "debit",
+      "icon": "receipt"
+    },
+    {
+      "title": "Vitamins",
+      "category": "Health",
+      "amount": 580,
+      "date": "07 May, 06:50 PM",
+      "type": "debit",
+      "icon": "health"
+    },
+    {
+      "title": "Cricket Turf",
+      "category": "Entertainment",
+      "amount": 900,
+      "date": "06 May, 07:30 PM",
+      "type": "debit",
+      "icon": "game"
+    },
+    {
+      "title": "Breakfast Cafe",
+      "category": "Food",
+      "amount": 220,
+      "date": "06 May, 09:20 AM",
+      "type": "debit",
+      "icon": "restaurant"
+    },
+    {
+      "title": "Toll Charge",
+      "category": "Travel",
+      "amount": 95,
+      "date": "05 May, 11:15 AM",
+      "type": "debit",
+      "icon": "car"
+    }
+  ]
+}
