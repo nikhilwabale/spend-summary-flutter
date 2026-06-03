@@ -18,6 +18,7 @@ A polished Flutter take-home assignment app that shows a modern monthly spend da
   - Category amount
   - Transaction count
   - Recent transaction list
+
 - FAQ screen with Spend Summary specific questions
 - Contact Us screen with Spend Summary support information
 - Form validation for title and amount
@@ -60,4 +61,38 @@ flutter build apk --release
 
 ## Screenshots
 
-Add emulator screenshots here before submitting the GitHub repository.
+### Dashboard
+
+![Dashboard](screenshots/Dashboard.jpeg)
+
+### Sign In
+
+![Sign In](screenshots/Sign_In.jpeg)
+
+### Sign Up
+
+![Sign Up](screenshots/Sign_Up.jpeg)
+
+### Add Spend
+
+![Add Spend](screenshots/Add_Spend.jpeg)
+
+### Spending Categories
+
+![Spending Categories](screenshots/Spending_Categories.jpeg)
+
+### Food Spend
+
+![Food Spend](screenshots/Food_Spend.jpeg)
+
+### Travel Spend
+
+![Travel Spend](screenshots/Travel_Spend.jpeg)
+
+### Settings
+
+![Settings](screenshots/Settings.jpeg)
+
+### Theme Changes
+
+![Theme Changes](screenshots/Theme_Changes.jpeg)
